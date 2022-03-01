@@ -27,26 +27,45 @@ Since most of our group favor Python over C++ (simply because we're more used to
 
 ## Quick Start
 If you have the board you can simply access the programming mode by going through the following steps:
-1. Connect a USB-C cable to the port labeled "PROG"
-2. Press and hold the "RESET" button
-3. Pres and hold the "PROG" button
-4. Release the RESET button
-5. Release the "PROG" button
+1. Connect a USB-C cable to the port labeled `PROG`
+2. Press and hold the `RESET` button
+3. Pres and hold the `PROG` button
+4. Release the `RESET` button
+5. Release the `PROG` button
 
 The device should now present itself as removable storage to your system, allowing you to upload/download files to/from it.
 You can use the provided code for some working examples.
+
 
 ## Costs
 I haven't exactly calculated the costs. But for the 5 prototypes I built I spent roughly 30 euro's/board.
 This includes overhead as some components had a minimium buy of 100 pieces.
 So the exact costs are most likely below the number mentioned above.
 
+
 # Planned Future
 The plan is to make some changes in the future, these changes could be:
 
 __Move to another Cellular Chip__
+
 The SimCom chips can have 2A peak currents, which require a pcb designed to accomodate said currents.
 
 
+__Support for more modern cellular acces__
+
+GPRS is soon to be EOL. But at the time of writing there are no subsitutes which are worth the price in this project.
+3G chips are available, but those networks are to be turned off 03-2022 in this country, which makes them not suitable for this project.
+LTE-M (or other IoT bands) are still only available to commercial customers, chips for these networks are readily available but sadly not usable in this country.
+
+For now it's waiting to see if any decent substitute will become available in the upcoming months.
+
+
 __Support NanoSIM__
+
 While it's theoretically possible with Rev 1.1 of the board, it hasn't been tested as of yet.
+
+
+# DISCLAIMER
+I am in no way a professional PCB designer - this design could be flawed without me being aware of it.
+I make things as a hobby without any guarantee on functionality, compatibility or reliability.
+As stated in the [License](LICENSE.md) this product comes without any guarantee.
