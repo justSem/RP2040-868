@@ -26,6 +26,11 @@ What started as a simple board grew out to be a fully-programmable board.
 Since most of our group favor Python over C++ (simply because we're more used to Python :) ) we went with an RP2040
 
 
+## Board Details
+* The charger is a Monolithic Power [MP2624](https://www.monolithicpower.com/en/mp2624.html) 
+* The GPRS/GNSS/BT(LE) Module is a SIMCom [SIM868](https://datasheet.lcsc.com/lcsc/1811011410_SIMCom-Wireless-Solutions-SIM868_C89549.pdf)
+* At the heart of the board you'll find a Raspberry Pi [RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)
+
 
 ## Quick Start
 If you have the board you can simply access the programming mode by going through the following steps:
