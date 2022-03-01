@@ -1,3 +1,5 @@
+> `BE AWARE` This project is still in active development, I'm still in the process of ordering and testing prototypes, so the latest version is not tested to be fully-working as of yet.
+
 # RP2040-868
 A GPRS/GNSS/BTLE and LiPo/Li-ion charger integrated Pi Pico on credit-card format.
 
