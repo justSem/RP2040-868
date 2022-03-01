@@ -7599,7 +7599,7 @@
   (gr_text "PROGRAM" (at 113.9352 50.9896 90) (layer "F.SilkS") (tstamp 0aadad6b-33d4-42bb-a756-57c30533fec7)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "RPi RP2040 GSM/GNSS/BT(LE) Board\nRev. 1.1     27-04-2022" (at 131.2852 6.9146) (layer "F.SilkS") (tstamp 4ae64a53-773f-4fe4-b362-c09c983cd788)
+  (gr_text "RPi RP2040 GSM/GNSS/BT(LE) Board\nRev. 1.1     27-02-2022" (at 131.2852 6.9146) (layer "F.SilkS") (tstamp 4ae64a53-773f-4fe4-b362-c09c983cd788)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (gr_text "Batch: #JLCJLCJLCJLC" (at 126.4352 55.9646) (layer "F.SilkS") (tstamp 7597d731-a38e-4e87-88d8-86b6be28422d)
