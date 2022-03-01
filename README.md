@@ -2,8 +2,10 @@
 A GPRS/GNSS/BTLE and LiPo/Li-ion charger integrated Pi Pico on credit-card format.
 
 ![Board Front](Images/Board-Front.png "Board Front")
+_Size: 99x50mm__
 
 Title says it all!
+
 This is a fully integrated RP2040-based board featuring the following:
 
 * GPRS Enabled (with microSIM card format)
