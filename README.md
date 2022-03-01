@@ -72,6 +72,26 @@ __Support NanoSIM__
 While it's theoretically possible with Rev 1.1 of the board, it hasn't been tested as of yet.
 
 
+# F.A.Q.
+
+__Do you sell these boards?__
+
+No. I have no commercial interest with this project, but I might have spares at times, which I might be willing to send as long as you cover the costs.
+Feel free to reach out if you're interested.
+
+
+__Can you implement feature X?__
+
+You're free to implement any software feature yourself. The boards are programmable for a reason :)
+
+The board files can be altered using KiCad, enabling you to make hardware changes as well.
+
+
+__I found a flaw__
+
+Great! Please open an [issue](/issues/new/choose) and describe what you found.
+
+
 # DISCLAIMER
 I am in no way a professional PCB designer - this design could be flawed without me being aware of it.
 I make things as a hobby without any guarantee on functionality, compatibility or reliability.
