@@ -7303,7 +7303,7 @@
     (uuid 00000000-0000-0000-0000-0000627ec6f3)
     (property "Reference" "C13" (id 0) (at 292.6842 75.565 90))
     (property "Value" "100uF" (id 1) (at 294.9956 75.565 90))
-    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P_Pad1.30x1.05mm_HandSolder" (id 2) (at 300.0502 79.375 0)
+    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H" (id 2) (at 300.0502 79.375 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 299.085 75.565 0)
@@ -8626,7 +8626,7 @@
       (reference "C12") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-0000627ec6f3"
-      (reference "C13") (unit 1) (value "100uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P_Pad1.30x1.05mm_HandSolder")
+      (reference "C13") (unit 1) (value "100uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H")
     )
     (path "/00000000-0000-0000-0000-0000627ec489"
       (reference "C14") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
