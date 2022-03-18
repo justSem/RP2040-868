@@ -4,7 +4,10 @@
 A GPRS/GNSS/BTLE and LiPo/Li-ion charger integrated Pi Pico on credit-card format.
 
 ![Board Front](Images/Board-Front.png "Board Front")
-_Size: 99x50mm__
+![Board Rear](Images/Board-Back.png "Board Rear")
+_Size: 99x50mm_
+
+
 
 Title says it all!
 
