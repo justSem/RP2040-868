@@ -101,3 +101,17 @@ Great! Please open an [issue](/issues/new/choose) and describe what you found.
 I am in no way a professional PCB designer - this design could be flawed without me being aware of it.
 I make things as a hobby without any guarantee on functionality, compatibility or reliability.
 As stated in the [License](LICENSE.md) this product comes without any guarantee.
+
+
+
+# CHANGELOG
+### Rev 3.1
+* Reversed change in crystal due to availability issues.
+* Swapped SOIC-8 Flash for WSON variant.
+* Removed SIM from `PROG` power-stage - no suitable DC-DC converter available for a reasonable price to do 5V->4V @ 2A.
+* In order to access the SIM868 whilst programming, it is now required to either connect a battery, or an USB-cable to the `CHARGE` power-stage.
+
+### Rev 2.0
+* Swapped 100nF caps for 0402 to get them closer to the MCU.
+* Moved around power-stage parts for thermal performance.
+* Re-implemented USB connections to comply with USB Spec (impedance issues).
